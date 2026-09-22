@@ -1,0 +1,11 @@
+build/
+bin/
+out/
+cmake-build-*/
+.idea/
+*.o
+*.obj
+*.exe
+*.out
+*.csv
+!data/.gitkeep
